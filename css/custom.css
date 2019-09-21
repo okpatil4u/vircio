@@ -1,0 +1,174 @@
+/* your styles go here */
+
+/* Vircio css */
+
+html {
+  font-family: Montserrat;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+.Rectangle-12 {
+  width: 100%;
+  height: 100%;
+  background-color: #133273;
+}
+
+.Rectangle-12-copy {
+  width:100%
+  opacity: 0.66;
+  background-color: inherit;
+}
+
+.Rectangle-12-copy1 {
+  width: 100%;
+  height: 1500px;
+  margin-top:-100px;
+  color:#ffffff;
+}
+
+.Rectangle-12-copy-2 {
+  width: 100%;
+  height: 100%;
+  background-color: #2794af;
+}
+
+.Rectangle-14 {
+  width: 216px;
+  height: 5px;
+  background-color: #ecc61d;
+}
+
+.Rectangle-14-copy {
+  width: 100%;
+  height: 1px;
+  background-color: #eeda19;
+}
+
+.Rectangle-14-copy-5 {
+  width: 445px;
+  height: 1px;
+  background-color: #606573;
+}
+
+.Rectangle-14-copy-7 {
+  width: 100%;
+  height: 1px;
+  background-color: #606573;
+}
+
+.Rectangle-15 {
+  width: 100%;
+  height: 100%;
+  background-color: #133273;
+  color:#ffffff;
+}
+
+.Rectangle-15-copy-2 {
+  width: 100%;
+  height: 100%;
+  background-color: #2794af;
+  color:#ffffff;
+}
+
+.Rectangle-15-copy-8 {
+  width: 455px;
+  height: 455px;
+  background-color: #0977e6;
+}
+
+.Rectangle-15-copy-3 {
+  width:100%
+  height: 1500px;
+  background-color: #174195;
+}
+
+.Layer-529 {
+  width:100%
+  height: 569px;
+}
+
+.Layer-540 {
+  width: 108px;
+  height: 24px;
+  background-color: #ffffff;
+}
+
+.Layer-528 {
+  width: 100%;
+  height: 622px;
+}
+
+.Layer-531 {
+  width:100%
+  height: 621px;
+}
+
+.Layer-38 {
+  width: 172px;
+  height: 173px;
+}
+
+.Rectangle-15-copy-4 {
+  width:100%
+  height: 320px;
+  background-color: inherit;
+}
+
+.Vritti-Fin-Tech_Website_Final {
+  width:100%
+  height: 6661px;
+  background-color: #ffffff;
+}
+
+.BLOG {
+  width: 51px;
+  height: 14px;
+  opacity: 0.84;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: right;
+  color: rgba(231, 202, 22, 0.84);
+}
+
+/*Investment-is-all-about-Emotions-We-are-here-to-set-the-ve {
+  width: 917px;
+  height: 164px;
+  text-shadow: 0px 2px 0 rgba(0, 0, 0, 0.52);
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.68;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.Investment-is-all-about-Emotions-We-are-here-to-set-the-ve .text-style-1 {
+  color: #f5cd1e;
+}*/
+
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+.section111 {
+  width:100%
+  height: 100%;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
